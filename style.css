@@ -186,3 +186,9 @@ social li a:hover {
         font-size: 2em;
     }
 }
+
+@media(max-width: 500px) {
+    .main {
+        height: 90vh;
+    }
+}
