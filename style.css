@@ -190,6 +190,6 @@ social li a:hover {
 
 @media(max-width: 500px) {
     .main {
-        height: 90vh;
+        height: 95vh;
     }
 }
